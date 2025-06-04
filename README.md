@@ -54,13 +54,13 @@ Experience the live portfolio at
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/lohitkolluri/Portfolio-Website
+git clone https://github.com/SimAdventure/myportfolio
 ```
 
 2️⃣ Navigate to project directory:
 
 ```bash
-cd Portfolio-Website
+cd myportfolio
 ```
 
 3️⃣ Install dependencies:
@@ -77,7 +77,7 @@ npm run dev
 
 5️⃣ Open in browser:
 
-- Visit [http://localhost:3000](http://localhost:3000)
+- Visit [http://localhost:5173](http://localhost:5173)
 
 ## 💻 Tech Stack
 
